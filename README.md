@@ -4,14 +4,14 @@
 
 
 <p>
-Creada usando primeReact con el componente DataView
+Creada usando PrimeReact con el componente DataView
 
 ### USO
 <p>
 Para iniciar el componente hay que correr la instruccion 
 
 ``` batch
-npm sart
+npm start
 ```
 
 Consume el servicio local a travez de la url http://localhost:8080/BackUtel/api/search 
