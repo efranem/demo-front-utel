@@ -1,6 +1,6 @@
-# Aplicacion DEMO para para UTEL
+# Aplicacion DEMO para UTEL
 
-## Font de consultas para busquedas de articulos Mercado Libre Argentina
+## Font de consultas para busquedas de articulos en Mercado Libre Argentina
 
 
 <p>
